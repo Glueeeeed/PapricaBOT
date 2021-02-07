@@ -1,6 +1,6 @@
 {
   "name": "ShadowBOT",
-  "author": "Jakub Ś****** Vartax",
+  "author": "Jakub Vartax",
   "main": "bot.js",
   "version": "1.1.0",
   "dependencies": {
