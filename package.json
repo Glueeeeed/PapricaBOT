@@ -1,0 +1,24 @@
+{
+  "name": "ShadowBOT",
+  "author": "Jakub Świderski Vartax",
+  "main": "bot.js",
+  "version": "1.1.0",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fast-sort": "^2.2.0",
+    "fstorm": "latest",
+    "graceful-fs": "^4.2.4",
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "latest",
+    "jsonpath-plus": "^4.0.0",
+    "libsodium-wrappers": "latest",
+    "opusscript": "latest",
+    "randomatic": "^3.1.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "steno": "^0.5.0",
+    "ytdl-core": "latest",
+    "ytsr": "^3.2.1"
+  },
+  "is-music-bot": true
+}
